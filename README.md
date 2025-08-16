@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ty-coud
-- 👀 I’m interested in ... Full Stack JavaScript/TypeScript Applications. Also Zendesk Apps, Browser Extensions, Browser Automation, Slack Apps, Discord Apps, Games, and More!
-- 🌱 I’m currently learning ... Godot 4 Game Engine
-- 💞️ I’m looking to collaborate on ... Nothing in particular at the moment but let me know if you have an interesting new project.
+- 👀 I’m interested in Full Stack JavaScript/TypeScript Applications. Also Zendesk Apps, Browser Extensions, Browser Automation, Slack Apps, Discord Apps, Games, and More!
+- 🌱 I’m currently practicing writing skills for my Blog.
+- 💞️ I’m looking to collaborate on some cool Zendesk Custom Apps or Development on the platform. Or maybe something else that looks interesting!
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/tyler-coudriet-525a3a1b6/)
 
 <!---
